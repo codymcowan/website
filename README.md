@@ -1,2 +1,2 @@
-# cmc
-website - http://codycowan.github.io/cmc/
+# cowan.nyc
+website - https://cowan.nyc
